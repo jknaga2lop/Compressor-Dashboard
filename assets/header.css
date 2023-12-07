@@ -1,0 +1,19 @@
+/* styles.css */
+
+/* Set labels and dropdowns on the same line */
+.label-dropdown-container {
+    display: flex;
+    align-items: center;
+}
+
+/* Style for individual labels */
+.label {
+    margin: 8px;
+    padding: 8px;
+}
+
+/* Style for individual dropdowns */
+.dropdown {
+    width: 200px;
+    margin-right: 10px;
+}
